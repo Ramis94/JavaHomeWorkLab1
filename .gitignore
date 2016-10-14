@@ -1,0 +1,13 @@
+target
+*.iml
+*.ipr
+*.iws
+*.ids
+.classpath
+.project
+.idea
+/.settings
+application.log
+ndc.log
+gradle
+.gradle
